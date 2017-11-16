@@ -1,2 +1,2 @@
-# CVBot
-Control de robot móvil vía Bluetooth desde la PC con movimientos del rostro
+# CVBot2
+Aplicación para el control de un robot móvil a través de los gestos de la cara y movimientos de la cabeza.

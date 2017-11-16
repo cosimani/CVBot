@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/flecha_derecha.png</file>
+        <file>images/robot.png</file>
+        <file>images/camara.png</file>
+        <file>images/flecha_derecha_seleccionada.png</file>
+        <file>images/flecha_derecha_cliqueada.png</file>
+        <file>images/robot_seleccionada.png</file>
+        <file>images/robot_cliqueada.png</file>
+        <file>images/camara_seleccionada.png</file>
+        <file>images/camara_cliqueada.png</file>
+    </qresource>
+</RCC>
