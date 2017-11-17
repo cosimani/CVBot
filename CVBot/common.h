@@ -6,7 +6,7 @@
 
 #ifdef NO_PORTABLE
 
-#define APPLICATION_PATH "../cvbot2/"
+#define APPLICATION_PATH "../CVBot/"
 #define CLASSIFIERS_PATH "../classifiers/"
 #define SOUNDS_PATH "../sounds/"
 

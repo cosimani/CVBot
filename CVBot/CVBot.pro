@@ -172,4 +172,4 @@ RESOURCES += \
     recursos.qrc
 
 DISTFILES += \
-    ../config/cvbot2.config
+    ../config/CVBot.config

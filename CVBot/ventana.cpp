@@ -155,6 +155,9 @@ void Ventana::keyPressEvent( QKeyEvent *e )
     case Qt::Key_Escape:
         this->close();
         break;
+    case Qt::Key_F:
+        this->showFullScreen();
+        break;
     default:;
     }
 }
